@@ -3,6 +3,7 @@
 
 A great [simple example](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started) of Ajax by Mozilla
 
+See [here](http://tomgdow.github.io/mozSimpleAjax/) for working code deployed on [github pages](https://pages.github.com/) 
 
 ---
 
